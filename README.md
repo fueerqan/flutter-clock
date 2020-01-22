@@ -9,6 +9,8 @@ Take a look at video of the clock at [Flutter Clock - Youtube][youtube_link]
 ### Preview
 ![furqan_flutter_clock_preview][clock_preview]
 ---
+#### Designed & Developed by Muhammad Furqan.
+---
 [latest_release_version]: https://img.shields.io/github/v/release/fueerqan/flutter-clock
 [flutter_clock_challenge_link]: https://flutter.dev/clock
 [lenovo_smart_clock_link]: https://www.lenovo.com/us/en/smart-clock
